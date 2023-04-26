@@ -1,0 +1,18 @@
+
+body {
+    background-image: url("../img/paisajefloral.jpg");
+    font-family: sans-serif;
+    color: whitesmoke;
+}
+
+h1{
+    text-align:center;
+}
+
+.logo-shuriken{
+    max-height: 40px;
+}
+
+button{
+    color: purple;
+}
